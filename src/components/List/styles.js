@@ -5,6 +5,8 @@ export const Container = styled.div`
   padding: 0 15px;
   height: 100%;
 
+  opacity: ${props => (props.done ? 0.6 : 1)};
+
   /* flex-grow; 0 // elemento pode esticar
     flex-shrink; 0 // possibilidade do elemento reduzir
     flex-basis; 320 // tamnho base do elemento */
