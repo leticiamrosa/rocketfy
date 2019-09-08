@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65f9f0d1137201464d7220f5dc4c3752",
+    "revision": "f9a7dab18ba00938c1dc59eca8c94ecb",
     "url": "/rocketfy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocketfy/static/js/2.7ac5ed99.chunk.js"
   },
   {
-    "revision": "aec0a51417536c557fce",
-    "url": "/rocketfy/static/js/main.72df8615.chunk.js"
+    "revision": "722d57db332397426176",
+    "url": "/rocketfy/static/js/main.aba7ce9a.chunk.js"
   },
   {
     "revision": "888dea49184f14d24697",

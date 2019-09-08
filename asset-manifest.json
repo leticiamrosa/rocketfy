@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/rocketfy/static/js/main.72df8615.chunk.js",
-    "main.js.map": "/rocketfy/static/js/main.72df8615.chunk.js.map",
+    "main.js": "/rocketfy/static/js/main.aba7ce9a.chunk.js",
+    "main.js.map": "/rocketfy/static/js/main.aba7ce9a.chunk.js.map",
     "runtime~main.js": "/rocketfy/static/js/runtime~main.36dd39bd.js",
     "runtime~main.js.map": "/rocketfy/static/js/runtime~main.36dd39bd.js.map",
     "static/js/2.7ac5ed99.chunk.js": "/rocketfy/static/js/2.7ac5ed99.chunk.js",
     "static/js/2.7ac5ed99.chunk.js.map": "/rocketfy/static/js/2.7ac5ed99.chunk.js.map",
     "index.html": "/rocketfy/index.html",
-    "precache-manifest.03a98126ec067ea78384e494c0f15281.js": "/rocketfy/precache-manifest.03a98126ec067ea78384e494c0f15281.js",
+    "precache-manifest.12be537b4e15c65cc2d8eb5a241e8c43.js": "/rocketfy/precache-manifest.12be537b4e15c65cc2d8eb5a241e8c43.js",
     "service-worker.js": "/rocketfy/service-worker.js"
   }
 }
