@@ -1,9 +1,10 @@
-import React from 'react';
-import { MdAdd } from 'react-icons/md';
-import { Container } from './styles';
-import Card from '../Card';
+import React from "react";
+import { MdAdd } from "react-icons/md";
+import { Container } from "./styles";
+import Card from "../Card";
 
 export default function List({ data, listIndex }) {
+  console.log(data.cards);
   return (
     <Container done={data.done}>
       <header>

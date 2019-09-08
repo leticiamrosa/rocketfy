@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
-import produce from 'immer';
-import List from '../List';
-import { Container } from './styles';
+import React, { useState } from "react";
+import produce from "immer";
+import List from "../List";
+import { Container } from "./styles";
 
-import { loadLists } from '../../services/api';
-import BoardContent from './context';
+import { loadLists } from "../../services/api";
+import BoardContent from "./context";
 
 const data = loadLists();
 
@@ -17,7 +17,7 @@ export default function Board() {
     setLists(
       produce(lists, draft => {
         const dragged = draft[fromList].cards[from];
-
+        console.log(dragged);
         draft[fromList].cards.splice(from, 1);
         draft[fromList].cards.splice(to, 0, dragged);
       })
